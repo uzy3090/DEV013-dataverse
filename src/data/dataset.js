@@ -1,378 +1,326 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "id": "toy-story",
+    "name": "Toy Story",
+    "shortdescription": "Juguetes que cobran vida en aventuras emocionantes.",
+    "description": "Toy Story es la primera película de Pixar, lanzada en 1995. La historia sigue a Woody, un vaquero, y Buzz Lightyear, un astronauta, mientras luchan por encontrar su lugar en el mundo de los juguetes. La película destaca la importancia de la amistad y la aceptación.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+      "fechaDeLanzamiento": "22 de noviembre de 1995",
+      "generoDePelicula": "Comedia, Aventura",
+      "rating": "8.3/10 en IMDb"
     }
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "id": "a-bugs-life",
+    "name": "A Bug's Life",
+    "shortdescription": "Hormigas vs saltamontes para salvar colonia.",
+    "description": "A Bug's Life, lanzada en 1998, sigue a Flik, una hormiga, mientras reúne a un grupo de insectos para enfrentarse a los temibles saltamontes y salvar su colonia. La película destaca el valor y la importancia de la colaboración.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+      "fechaDeLanzamiento": "20 de noviembre de 1998",
+      "generoDePelicula": "Aventura, Familiar",
+      "rating": "7.2/10 en IMDb"
     }
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "id": "toy-story-2",
+    "name": "Toy Story 2",
+    "shortdescription": "Woody secuestrado, Buzz lidera rescate.",
+    "description": "Toy Story 2, lanzada en 1999, continúa la historia de Woody y Buzz. Woody es secuestrado y llevado a una colección de juguetes valiosos. Buzz lidera una misión de rescate para salvar a su amigo. La película destaca la lealtad y el valor.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+      "fechaDeLanzamiento": "24 de noviembre de 1999",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "7.9/10 en IMDb"
     }
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "id": "monsters-inc",
+    "name": "Monsters, Inc.",
+    "shortdescription": "Monstruos asustan niños para obtener energía.",
+    "description": "Monsters, Inc., lanzada en 2001, presenta a Sulley y Mike, monstruos que asustan a niños para obtener energía. La historia se desarrolla cuando una niña llamada Boo entra al mundo de los monstruos. La película destaca la amistad y la superación del miedo.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_monstersinc_19751_55afa07a.jpeg",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
+      "fechaDeLanzamiento": "2 de noviembre de 2001",
+      "generoDePelicula": "Comedia, Familiar",
+      "rating": "8.1/10 en IMDb"
     }
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "id": "buscando-a-nemo",
+    "name": "Buscando a Nemo",
+    "shortdescription": "Padre pez busca a hijo perdido en vasto océano.",
+    "description": "Finding Nemo, lanzada en 2003, sigue a Marlin, un pez payaso, en su viaje épico para encontrar a su hijo Nemo, capturado por un buceador y llevado a un acuario. La película explora el coraje, la superación de los miedos y la importancia del amor paternal.",
+    "imageUrl": "https://m.media-amazon.com/images/I/81J7E7J2uhL._AC_UF894,1000_QL80_.jpg",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "fechaDeLanzamiento": "30 de mayo de 2003",
+      "generoDePelicula": "Aventura, Familiar",
+      "rating": "8.1/10 en IMDb"
     }
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "id": "the-incredibles",
+    "name": "The Incredibles",
+    "shortdescription": "Familia de superhéroes lucha contra villano.",
+    "description": "The Incredibles, lanzada en 2004, sigue a la familia Parr, una familia de superhéroes que lucha contra el villano Syndrome. La película aborda temas de identidad, familia y aceptación de uno mismo.",
+    "imageUrl": "https://pics.filmaffinity.com/Los_Increaibles-939387273-large.jpg",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
+      "fechaDeLanzamiento": "27 de octubre de 2004",
+      "generoDePelicula": "Acción, Aventura",
+      "rating": "8.0/10 en IMDb"
     }
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "id": "cars",
+    "name": "Cars",
+    "shortdescription": "Coche de carreras aprende lecciones de vida.",
+    "description": "Cars, lanzada en 2006, sigue a Rayo McQueen, un coche de carreras, mientras aprende lecciones de vida en un pequeño pueblo llamado Radiator Springs. La película destaca la importancia de la humildad y la amistad.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_cars_19643_4405006d.jpeg",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
+      "fechaDeLanzamiento": "9 de junio de 2006",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "7.1/10 en IMDb"
     }
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "id": "ratatouille",
+    "name": "Ratatouille",
+    "shortdescription": "Rata chef en París",
+    "description": "Ratatouille, lanzada en 2007, sigue a Remy, una rata con habilidades culinarias, mientras persigue su sueño de convertirse en chef en París. La película celebra la pasión por la cocina y la superación de los estereotipos.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
-    },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
+      "fechaDeLanzamiento": "22 de junio de 2007",
+      "generoDePelicula": "Comedia, Familiar",
+      "rating": "8.0/10 en IMDb"
     }
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "id": "wall-e",
+    "name": "WALL-E",
+    "shortdescription": "Robot limpia la Tierra",
+    "description": "WALL-E, lanzada en 2008, presenta a un robot solitario que limpia la Tierra después de que la humanidad la abandona. La película aborda temas ambientales y la conexión humana. Tiene una narrativa minimalista y visualmente impactante.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
+      "fechaDeLanzamiento": "27 de junio de 2008",
+      "generoDePelicula": "Aventura, Ciencia Ficción",
+      "rating": "8.4/10 en IMDb"
     }
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "id": "up",
+    "name": "Up",
+    "shortdescription": "Aventurero y niño en viaje",
+    "description": "Up, estrenada en 2009, cuenta la historia de Carl Fredricksen, un viudo de edad avanzada, y Russell, un niño explorador, mientras vuelan en una casa suspendida por globos hacia América del Sur. La película celebra la aventura, la amistad y la importancia de perseguir los sueños.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
+      "fechaDeLanzamiento": "29 de mayo de 2009",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "8.2/10 en IMDb"
     }
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "id": "toy-story-3",
+    "name": "Toy Story 3",
+    "shortdescription": "Juguetes enfrentan futuro",
+    "description": "Toy Story 3, lanzada en 2010, sigue a los juguetes de Andy enfrentando su futuro cuando él se va a la universidad. La película explora la amistad, la lealtad y la transición a nuevas etapas de la vida.",
+    "imageUrl": "https://pics.filmaffinity.com/Toy_Story_3-691147043-large.jpg",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
+      "fechaDeLanzamiento": "12 de junio de 2010",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "8.2/10 en IMDb"
     }
   },
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "id": "cars-2",
+    "name": "Cars 2",
+    "shortdescription": "Rayo McQueen en carrera y conspiración",
+    "description": "Cars 2, lanzada en 2011, sigue a Rayo McQueen y su amigo Mate mientras participan en una carrera internacional. La trama se complica cuando se ven involucrados en una conspiración internacional. La película es una mezcla de acción y comedia.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
+      "fechaDeLanzamiento": "18 de junio de 2011",
+      "generoDePelicula": "Acción, Aventura",
+      "rating": "6.2/10 en IMDb"
     }
   },
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "id": "brave",
+    "name": "Brave",
+    "shortdescription": "Princesa escocesa desafía tradiciones",
+    "description": "Brave, lanzada en 2012, sigue a Mérida, una valiente princesa escocesa que desafía las tradiciones y busca cambiar su destino. La película destaca la importancia de la autenticidad y la conexión familiar.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_brave_20488_9e833e2b.jpeg",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
+      "fechaDeLanzamiento": "22 de junio de 2012",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "7.1/10 en IMDb"
     }
   },
   {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
+    "id": "monsters-university",
+    "name": "Monsters University",
+    "shortdescription": "Mike y Sulley universidad, aprenden asustar",
+    "description": "Monsters University, lanzada en 2013, es una precuela de Monsters, Inc. La historia sigue a Mike y Sulley mientras se conocen en la universidad y aprenden a asustar. La película explora temas de amistad y autodescubrimiento.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
+      "fechaDeLanzamiento": "21 de junio de 2013",
+      "generoDePelicula": "Comedia, Familiar",
+      "rating": "7.3/10 en IMDb"
     }
   },
   {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
+    "id": "inside-out",
+    "name": "Inside Out",
+    "shortdescription": "Emociones guían vida niña",
+    "description": "Inside Out, lanzada en 2015, presenta a las emociones en la mente de Riley, una niña que se muda a una nueva ciudad. La película explora la importancia de todas las emociones y cómo dan forma a nuestras experiencias.",
+    "imageUrl": "https://pics.filmaffinity.com/Del_revaes_Inside_Out-161470323-large.jpg",
     "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
+      "fechaDeLanzamiento": "19 de junio de 2015",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "8.1/10 en IMDb"
     }
   },
   {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
+    "id": "the-good-dinosaur",
+    "name": "The Good Dinosaur",
+    "shortdescription": "Dinosaurio amigo niño humano en mundo alternativo",
+    "description": "The Good Dinosaur, lanzada en 2015, explora un mundo alternativo donde los dinosaurios no se extinguieron. La historia sigue a un dinosaurio llamado Arlo, quien se hace amigo de un niño humano llamado Spot. La película aborda temas de valentía y amistad.",
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_thegooddinosaur_19753_03c2af0a.jpeg",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
+      "fechaDeLanzamiento": "25 de noviembre de 2015",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "6.7/10 en IMDb"
     }
   },
   {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
+    "id": "finding-dory",
+    "name": "Finding Dory",
+    "shortdescription": "Dory busca familia con ayuda de Nemo y Marlin",
+    "description": "Finding Dory, lanzada en 2016, es una secuela de Finding Nemo. La historia sigue a Dory mientras busca a su familia con la ayuda de Nemo y Marlin. La película destaca la importancia de la familia y la superación de los desafíos.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWVmYTcwZDYtYzNmNC00M2U2LWFjZWYtOWRlY2NiNjc5ZjdiXkEyXkFqcGdeQXVyNjY5Mjg5MjA@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
+      "fechaDeLanzamiento": "17 de junio de 2016",
+      "generoDePelicula": "Aventura, Comedia",
+      "rating": "7.3/10 en IMDb"
     }
   },
   {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
+    "id": "cars-3",
+    "name": "Cars 3",
+    "shortdescription": "Rayo McQueen enfrenta nueva generación corredores",
+    "description": "Cars 3, lanzada en 2017, sigue a Rayo McQueen mientras se enfrenta a una nueva generación de corredores de alta tecnología. La película aborda temas de perseverancia y aceptación del cambio.",
+    "imageUrl": "https://es.web.img2.acsta.net/pictures/17/06/09/13/42/187933.jpg",
     "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
+      "fechaDeLanzamiento": "16 de junio de 2017",
+      "generoDePelicula": "Acción, Aventura",
+      "rating": "6.7/10 en IMDb"
     }
   },
   {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
+    "id": "coco",
+    "name": "Coco",
+    "shortdescription": "Niño viaja al mundo de los muertos descubrir herencia",
+    "description": "Coco, lanzada en 2017, sigue a Miguel, un niño que viaja al mundo de los muertos para descubrir su herencia familiar. La película celebra la cultura mexicana y aborda temas de familia y pasión.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
-    },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
+      "fechaDeLanzamiento": "20 de octubre de 2017",
+      "generoDePelicula": "Aventura, Familia",
+      "rating": "8.4/10 en IMDb"
     }
   },
   {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
+    "id": "incredibles-2",
+    "name": "Incredibles 2",
+    "shortdescription": "Familia Parr enfrenta nueva amenaza, Helen superhéroe",
+    "description": "Incredibles 2, lanzada en 2018, continúa la historia de la familia Parr. Helen se convierte en la superhéroe Elastigirl para enfrentar una nueva amenaza, mientras Bob se queda en casa con los niños. La película destaca el equilibrio entre la familia y las responsabilidades heroicas.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
-    },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
+      "fechaDeLanzamiento": "15 de junio de 2018",
+      "generoDePelicula": "Acción, Aventura",
+      "rating": "7.6/10 en IMDb"
+    }
+  },  
+  {
+    "id": "toy-story-4",
+    "name": "Toy Story 4",
+    "shortdescription": "Woody y Buzz en nueva aventura",
+    "description": "Toy Story 4, 2019. Woody y Buzz con nuevos amigos, incluido Forky. Explora autoaceptación y propósito.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
+    "facts": {
+      "fechaDeLanzamiento": "20 de junio de 2019",
+      "generoDePelicula": "Aventura, Comedia, Fantasía",
+      "rating": "7.7/10 en IMDb"
     }
   },
   {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
+    "id": "onward",
+    "name": "Onward",
+    "shortdescription": "Hermanos elfos buscan traer padre fallecido",
+    "description": "Onward, 2020. Dos hermanos elfos buscan traer a su padre fallecido. Combina fantasía con emociones y familia.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg",
     "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
+      "fechaDeLanzamiento": "29 de febrero de 2020",
+      "generoDePelicula": "Aventura, Comedia, Drama",
+      "rating": "7.4/10 en IMDb"
     }
   },
   {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
+    "id": "soul",
+    "name": "Soul",
+    "shortdescription": "Músico busca significado después de accidente",
+    "description": "Soul, 2020. Joe Gardner, músico, busca significado tras accidente. Explora temas existenciales y apreciación diaria.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
-    },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
+      "fechaDeLanzamiento": "25 de diciembre de 2020",
+      "generoDePelicula": "Aventura, Comedia, Drama",
+      "rating": "8.1/10 en IMDb"
     }
   },
   {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
+    "id": "luca",
+    "name": "Luca",
+    "shortdescription": "Niño marino vive verano inolvidable",
+    "description": "Luca, 2021. Niño marino Luca vive verano inolvidable. Aborda amistad, aceptación e identidad.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
-    },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
+      "fechaDeLanzamiento": "18 de junio de 2021",
+      "generoDePelicula": "Aventura, Comedia, Drama",
+      "rating": "7.5/10 en IMDb"
     }
   },
   {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
+    "id": "turning-red",
+    "name": "Turning Red",
+    "shortdescription": "Adolescente se transforma en panda rojo",
+    "description": "Turning Red, 2022. Mei, adolescente se transforma en panda rojo. Explora autenticidad y relaciones familiares.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzRhMTNjZTItMjU3Mi00Y2RmLWE1ZTktODAxODU3OWYyZjUzXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",
     "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
-    },
-    "extraInfo": {
-      "imageSource": ""
+      "fechaDeLanzamiento": "11 de marzo de 2022",
+      "generoDePelicula": "Comedia, Drama, Familia",
+      "rating": "7.0/10 en IMDb"
     }
-  }
+  },
+  {
+    "id": "lightyear",
+    "name": "Lightyear",
+    "shortdescription": "Historia origen de Buzz Lightyear",
+    "description": "Lightyear, 2022. Aventura espacial de Buzz Lightyear. Precuela de Toy Story. Chris Evans presta su voz.",
+    "imageUrl": "https://pics.filmaffinity.com/Lightyear-529062623-large.jpg",
+    "facts": {
+      "fechaDeLanzamiento": "17 de junio de 2022",
+      "generoDePelicula": "Acción, Aventura, Ciencia ficción",
+      "rating": "6.1/10 en IMDb"
+    }
+  },
+  {
+    "id": "elemental",
+    "name": "Elemental",
+    "shortdescription": "Una comedia sobre dos amigos que son fuego y agua",
+    "description": "Elemental, 2023. Comedia animada sobre dos amigos que son fuego y agua. Cuenta la historia de Ember, una apasionada bombera de fuego, y Wade, un tranquilo fontanero de agua. Los dos se ven obligados a trabajar juntos cuando una fuerza misteriosa amenaza su ciudad.",
+    "imageUrl": "https://pics.filmaffinity.com/Elemental-522221727-large.jpg",
+    "facts": {
+      "fechaDeLanzamiento": "18 de agosto de 2023",
+      "generoDePelicula": "Comedia, Animación, Infantil",
+      "rating": "7.2/10 en IMDb"
+    }
+  }  
 ];
