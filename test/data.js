@@ -2,51 +2,39 @@
 // al menos debe tener uno que se llame "data"
 
 export const data = [{
-  "id": "ada-lovelace",
-  "name": "Ada Lovelace",
-  "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-  "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-  "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+  "id": "toy-story",
+  "name": "Toy Story",
+  "shortdescription": "Juguetes que cobran vida en aventuras emocionantes.",
+  "description": "Toy Story es la primera película de Pixar, lanzada en 1995. La historia sigue a Woody, un vaquero, y Buzz Lightyear, un astronauta, mientras luchan por encontrar su lugar en el mundo de los juguetes. La película destaca la importancia de la amistad y la aceptación.",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
   "facts": {
-    "yearOfBirth": "1815",
-    "yearOfDeath": "1852",
-    "birthPlace": "Londres, Reino Unido",
-    "mainField": "Ciencia de la Computación"
-  },
-  "extraInfo": {
-    "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
+    "fechaDeLanzamiento": "22 de noviembre de 1995",
+    "generoDePelicula": "Comedia, Aventura",
+    "rating": "8.3/10 en IMDb"
   }
 },
 {
-  "id": "emmy-noether",
-  "name": "Emmy Noether",
-  "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-  "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-  "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+  "id": "a-bugs-life",
+  "name": "A Bug's Life",
+  "shortdescription": "Hormigas vs saltamontes para salvar colonia.",
+  "description": "A Bug's Life, lanzada en 1998, sigue a Flik, una hormiga, mientras reúne a un grupo de insectos para enfrentarse a los temibles saltamontes y salvar su colonia. La película destaca el valor y la importancia de la colaboración.",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
   "facts": {
-    "yearOfBirth": "1882",
-    "yearOfDeath": "1935",
-    "birthPlace": "Erlangen, Alemania",
-    "mainField": "Matemáticas"
-  },
-  "extraInfo": {
-    "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
+    "fechaDeLanzamiento": "20 de noviembre de 1998",
+    "generoDePelicula": "Aventura, Familiar",
+    "rating": "7.2/10 en IMDb"
   }
 },
 {
-  "id": "hypatia-de-alejandria",
-  "name": "Hypatia de Alejandría",
-  "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-  "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-  "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+  "id": "toy-story-2",
+  "name": "Toy Story 2",
+  "shortdescription": "Woody secuestrado, Buzz lidera rescate.",
+  "description": "Toy Story 2, lanzada en 1999, continúa la historia de Woody y Buzz. Woody es secuestrado y llevado a una colección de juguetes valiosos. Buzz lidera una misión de rescate para salvar a su amigo. La película destaca la lealtad y el valor.",
+  "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
   "facts": {
-    "yearOfBirth": "circa 360",
-    "yearOfDeath": "415",
-    "birthPlace": "Alejandría, Egipto",
-    "mainField": "Matemáticas, Filosofía"
-  },
-  "extraInfo": {
-    "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
+    "fechaDeLanzamiento": "24 de noviembre de 1999",
+    "generoDePelicula": "Aventura, Comedia",
+    "rating": "7.9/10 en IMDb"
   }
 },];
 
