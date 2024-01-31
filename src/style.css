@@ -1,0 +1,28 @@
+*{ 
+margin: 1rem; 
+padding: 0; 
+box-sizing: border-flex 
+}
+
+header {
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding: 2rem; 
+    background-image: #82a6bd
+}
+
+label {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    text-decoration: none; 
+    color: black
+}
+
+li {
+    list-style-type: none;
+
+}
+
+
