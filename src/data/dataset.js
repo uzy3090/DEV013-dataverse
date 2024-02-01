@@ -12,10 +12,10 @@ export default [
     }
   },
   {
-    "id": "a-bugs-life",
-    "name": "A Bug's Life",
+    "id": "bichos-una-aventura-en-miniatura",
+    "name": "Bichos: Una aventura en miniatura",
     "shortdescription": "Hormigas vs saltamontes para salvar colonia.",
-    "description": "A Bug's Life, lanzada en 1998, sigue a Flik, una hormiga, mientras reúne a un grupo de insectos para enfrentarse a los temibles saltamontes y salvar su colonia. La película destaca el valor y la importancia de la colaboración.",
+    "description": "Bichos, lanzada en 1998, sigue a Flik, una hormiga, mientras reúne a un grupo de insectos para enfrentarse a los temibles saltamontes y salvar su colonia. La película destaca el valor y la importancia de la colaboración.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "20 de noviembre de 1998",
@@ -51,7 +51,7 @@ export default [
     "id": "buscando-a-nemo",
     "name": "Buscando a Nemo",
     "shortdescription": "Padre pez busca a hijo perdido en vasto océano.",
-    "description": "Finding Nemo, lanzada en 2003, sigue a Marlin, un pez payaso, en su viaje épico para encontrar a su hijo Nemo, capturado por un buceador y llevado a un acuario. La película explora el coraje, la superación de los miedos y la importancia del amor paternal.",
+    "description": "Buscando a Nemo, lanzada en 2003, sigue a Marlin, un pez payaso, en su viaje épico para encontrar a su hijo Nemo, capturado por un buceador y llevado a un acuario. La película explora el coraje, la superación de los miedos y la importancia del amor paternal.",
     "imageUrl": "https://m.media-amazon.com/images/I/81J7E7J2uhL._AC_UF894,1000_QL80_.jpg",
     "facts": {
       "fechaDeLanzamiento": "30 de mayo de 2003",
@@ -60,10 +60,10 @@ export default [
     }
   },
   {
-    "id": "the-incredibles",
-    "name": "The Incredibles",
+    "id": "los-increibles",
+    "name": "Los Increibles",
     "shortdescription": "Familia de superhéroes lucha contra villano.",
-    "description": "The Incredibles, lanzada en 2004, sigue a la familia Parr, una familia de superhéroes que lucha contra el villano Syndrome. La película aborda temas de identidad, familia y aceptación de uno mismo.",
+    "description": "Los Increibles, lanzada en 2004, sigue a la familia Parr, una familia de superhéroes que lucha contra el villano Syndrome. La película aborda temas de identidad, familia y aceptación de uno mismo.",
     "imageUrl": "https://pics.filmaffinity.com/Los_Increaibles-939387273-large.jpg",
     "facts": {
       "fechaDeLanzamiento": "27 de octubre de 2004",
@@ -124,7 +124,7 @@ export default [
     "name": "Toy Story 3",
     "shortdescription": "Juguetes enfrentan futuro",
     "description": "Toy Story 3, lanzada en 2010, sigue a los juguetes de Andy enfrentando su futuro cuando él se va a la universidad. La película explora la amistad, la lealtad y la transición a nuevas etapas de la vida.",
-    "imageUrl": "https://pics.filmaffinity.com/Toy_Story_3-691147043-large.jpg",
+    "imageUrl": "https://th.bing.com/th/id/OIP.7jYlGRZeFJhDtoWGKd7zVAHaK9?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "12 de junio de 2010",
       "generoDePelicula": "Aventura, Comedia",
@@ -144,10 +144,10 @@ export default [
     }
   },
   {
-    "id": "brave",
-    "name": "Brave",
+    "id": "valiente",
+    "name": "Valiente",
     "shortdescription": "Princesa escocesa desafía tradiciones",
-    "description": "Brave, lanzada en 2012, sigue a Mérida, una valiente princesa escocesa que desafía las tradiciones y busca cambiar su destino. La película destaca la importancia de la autenticidad y la conexión familiar.",
+    "description": "Valiente, lanzada en 2012, sigue a Mérida, una valiente princesa escocesa que desafía las tradiciones y busca cambiar su destino. La película destaca la importancia de la autenticidad y la conexión familiar.",
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_brave_20488_9e833e2b.jpeg",
     "facts": {
       "fechaDeLanzamiento": "22 de junio de 2012",
@@ -168,11 +168,11 @@ export default [
     }
   },
   {
-    "id": "inside-out",
-    "name": "Inside Out",
+    "id": "intensamente",
+    "name": "Intensamente",
     "shortdescription": "Emociones guían vida niña",
-    "description": "Inside Out, lanzada en 2015, presenta a las emociones en la mente de Riley, una niña que se muda a una nueva ciudad. La película explora la importancia de todas las emociones y cómo dan forma a nuestras experiencias.",
-    "imageUrl": "https://pics.filmaffinity.com/Del_revaes_Inside_Out-161470323-large.jpg",
+    "description": "Intensamente, lanzada en 2015, presenta a las emociones en la mente de Riley, una niña que se muda a una nueva ciudad. La película explora la importancia de todas las emociones y cómo dan forma a nuestras experiencias.",
+    "imageUrl": "https://mx.web.img3.acsta.net/pictures/17/08/07/21/43/466493.jpg",
     "facts": {
       "fechaDeLanzamiento": "19 de junio de 2015",
       "generoDePelicula": "Aventura, Comedia",
@@ -180,11 +180,11 @@ export default [
     }
   },
   {
-    "id": "the-good-dinosaur",
-    "name": "The Good Dinosaur",
+    "id": "el-viaje-de-arlo",
+    "name": "El Viaje de Arlo",
     "shortdescription": "Dinosaurio amigo niño humano en mundo alternativo",
-    "description": "The Good Dinosaur, lanzada en 2015, explora un mundo alternativo donde los dinosaurios no se extinguieron. La historia sigue a un dinosaurio llamado Arlo, quien se hace amigo de un niño humano llamado Spot. La película aborda temas de valentía y amistad.",
-    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_thegooddinosaur_19753_03c2af0a.jpeg",
+    "description": "El Viaje de Arlo, lanzada en 2015, explora un mundo alternativo donde los dinosaurios no se extinguieron. La historia sigue a un dinosaurio llamado Arlo, quien se hace amigo de un niño humano llamado Spot. La película aborda temas de valentía y amistad.",
+    "imageUrl": "https://th.bing.com/th/id/R.8e8c010fa99929fdc57e213e62bef3d8?rik=p0bwf3IKflKBmA&pid=ImgRaw&r=0",
     "facts": {
       "fechaDeLanzamiento": "25 de noviembre de 2015",
       "generoDePelicula": "Aventura, Comedia",
@@ -192,10 +192,10 @@ export default [
     }
   },
   {
-    "id": "finding-dory",
-    "name": "Finding Dory",
+    "id": "buscando-a-dory",
+    "name": "Buscando a Dory",
     "shortdescription": "Dory busca familia con ayuda de Nemo y Marlin",
-    "description": "Finding Dory, lanzada en 2016, es una secuela de Finding Nemo. La historia sigue a Dory mientras busca a su familia con la ayuda de Nemo y Marlin. La película destaca la importancia de la familia y la superación de los desafíos.",
+    "description": "Buscando a Dory, lanzada en 2016, es una secuela de Buscando a Nemo. La historia sigue a Dory mientras busca a su familia con la ayuda de Nemo y Marlin. La película destaca la importancia de la familia y la superación de los desafíos.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWVmYTcwZDYtYzNmNC00M2U2LWFjZWYtOWRlY2NiNjc5ZjdiXkEyXkFqcGdeQXVyNjY5Mjg5MjA@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2016",
@@ -228,10 +228,10 @@ export default [
     }
   },
   {
-    "id": "incredibles-2",
-    "name": "Incredibles 2",
+    "id": "los-increibles-2",
+    "name": "Los Increibles 2",
     "shortdescription": "Familia Parr enfrenta nueva amenaza, Helen superhéroe",
-    "description": "Incredibles 2, lanzada en 2018, continúa la historia de la familia Parr. Helen se convierte en la superhéroe Elastigirl para enfrentar una nueva amenaza, mientras Bob se queda en casa con los niños. La película destaca el equilibrio entre la familia y las responsabilidades heroicas.",
+    "description": "Los Increibles 2, lanzada en 2018, continúa la historia de la familia Parr. Helen se convierte en la superhéroe Elastigirl para enfrentar una nueva amenaza, mientras Bob se queda en casa con los niños. La película destaca el equilibrio entre la familia y las responsabilidades heroicas.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "15 de junio de 2018",
@@ -252,11 +252,11 @@ export default [
     }
   },
   {
-    "id": "onward",
-    "name": "Onward",
+    "id": "unidos",
+    "name": "Unidos",
     "shortdescription": "Hermanos elfos buscan traer padre fallecido",
-    "description": "Onward, 2020. Dos hermanos elfos buscan traer a su padre fallecido. Combina fantasía con emociones y familia.",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTZlYzk3NzQtMmViYS00YWZmLTk5ZTEtNWE0NGVjM2MzYWU1XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg",
+    "description": "Unidos, 2020. Dos hermanos elfos buscan traer a su padre fallecido. Combina fantasía con emociones y familia.",
+    "imageUrl": "https://th.bing.com/th/id/OIP.EnvhF6BXMJu487ApSrTdpQHaKl?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "29 de febrero de 2020",
       "generoDePelicula": "Aventura, Comedia, Drama",
@@ -288,10 +288,10 @@ export default [
     }
   },
   {
-    "id": "turning-red",
-    "name": "Turning Red",
+    "id": "red",
+    "name": "Red",
     "shortdescription": "Adolescente se transforma en panda rojo",
-    "description": "Turning Red, 2022. Mei, adolescente se transforma en panda rojo. Explora autenticidad y relaciones familiares.",
+    "description": "Red, 2022. Mei, adolescente se transforma en panda rojo. Explora autenticidad y relaciones familiares.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzRhMTNjZTItMjU3Mi00Y2RmLWE1ZTktODAxODU3OWYyZjUzXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "11 de marzo de 2022",
@@ -304,7 +304,7 @@ export default [
     "name": "Lightyear",
     "shortdescription": "Historia origen de Buzz Lightyear",
     "description": "Lightyear, 2022. Aventura espacial de Buzz Lightyear. Precuela de Toy Story. Chris Evans presta su voz.",
-    "imageUrl": "https://pics.filmaffinity.com/Lightyear-529062623-large.jpg",
+    "imageUrl": "https://th.bing.com/th/id/R.9399d06137906c74c3d40c6135f4c453?rik=XDmsgWZsbYQF%2fg&pid=ImgRaw&r=0",
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2022",
       "generoDePelicula": "Acción, Aventura, Ciencia ficción",
@@ -312,11 +312,11 @@ export default [
     }
   },
   {
-    "id": "elemental",
-    "name": "Elemental",
+    "id": "elementos",
+    "name": "Elementos",
     "shortdescription": "Una comedia sobre dos amigos que son fuego y agua",
-    "description": "Elemental, 2023. Comedia animada sobre dos amigos que son fuego y agua. Cuenta la historia de Ember, una apasionada bombera de fuego, y Wade, un tranquilo fontanero de agua. Los dos se ven obligados a trabajar juntos cuando una fuerza misteriosa amenaza su ciudad.",
-    "imageUrl": "https://pics.filmaffinity.com/Elemental-522221727-large.jpg",
+    "description": "Elementos, 2023. Comedia animada sobre dos amigos que son fuego y agua. Cuenta la historia de Ember, una apasionada bombera de fuego, y Wade, un tranquilo fontanero de agua. Los dos se ven obligados a trabajar juntos cuando una fuerza misteriosa amenaza su ciudad.",
+    "imageUrl": "https://th.bing.com/th/id/OIP.tPxpzJFOvL-0I3H5E6yM4QHaK-?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "18 de agosto de 2023",
       "generoDePelicula": "Comedia, Animación, Infantil",
