@@ -5,27 +5,30 @@
     <title>Data Verse</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
-    <head> 
+    <header> 
       <h1>Pixar Planet</h1>
-    </head>
+    </header>
+
     <section>
-      <label>Ordernar por rating:</label>
-      <select>
+      <label for="filtro-rating">Ordernar por rating:</label>
+      <select name="filtro-rating" id="filtro-rating">
         <option>1-10</option>
         <option>10-1</option>
       </select>
-      <label>Filtrar:</label>
-      <select>        
+
+      <label for="filtro-genero">Filtrar:</label>
+      <select name="filtro-genero" id="filtro-genero">        
         <option>Genero</option>
       </select>
     </section>
+
     <main>
       <h2>Peliculas</h2>
+      <div id="root"></div>
     </main>
-    <ul><div id="root"></div></ul>
     
-
     <footer>By: Lucia Olayo y Gladys Ureña</footer>
     <script src="main.js" type="module"></script>
   </body>
