@@ -10,8 +10,7 @@ export const renderItems = (data) => {
     <dt class='movieFacts'>${pelicula.facts.rating}</dt>
     </dl>
     </li>`
-   // html= '<ul>'+ html +'</ul>'
+    html= '<ul>'+ html +'</ul>'
   })
-  console.log(html)
- return html;
+  return html;
 };
