@@ -4,6 +4,6 @@ import { renderItems } from './view.js';
 import data from './data/dataset.js';
 
 //console.log(example, renderItems(data), data);
-const root=document.getElementById("root");
+let root=document.getElementById("root");
 root.innerHTML=renderItems(data)
 
