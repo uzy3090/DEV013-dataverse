@@ -22,6 +22,20 @@ label {
 
 li {
     list-style-type: none;
+    background-color:#F4D03F; /*color del fondo del section*/
+    display: flex; /*hacer todos los elementos flexibles*/
+    justify-content: space-between; /*alinear los elementos*/
+    padding:40px;/*espaciado del contenido hacia los lados*/ 
+    width: 50%;/*que siempre va a ocupar el 50% del espacio establecido*/ 
+    margin: 15px auto;/*para redondear las puntas*/ 
+    box-shadow: 10px 10 px 10px royalblue (0,0,0, .5);/*sombra del section*/
+
+img 
+
+
+}
+
+
 
 }
 

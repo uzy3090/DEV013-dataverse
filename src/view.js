@@ -7,11 +7,11 @@ export const renderItems = (data) => {
     <dt class='movieName'>${pelicula.name}</dt>
     <dt class='movieShortDes'>${pelicula.shortdescription}</dt>
     <dt class='movieDes'>${pelicula.description}</dt>
-    <dt class='movieFacts'>${pelicula.facts.rating}</dt>
+    <dt><dd class='movieFacts itemprop='facts'>${pelicula.facts.rating}</dd></dt>
     </dl>
     </li>`
-   // html= '<ul>'+ html +'</ul>'
+    // html= '<ul>'+ html +'</ul>'
   })
-  console.log(html)
- return html;
+  //console.log(html)
+  return html;
 };
