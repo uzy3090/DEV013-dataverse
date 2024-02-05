@@ -1,9 +1,7 @@
 export const renderItems = (data) => {
   let html = '';
-  const ul = document.createElement ('ul')
   data.forEach(function(pelicula){
-    const li = document.createElement ('li')
-    html += `
+    html += `<li class="tarjeta" itemscope itemtype="pelicula">
     <dl> 
     <img src="${pelicula.imageUrl}" alt="Imagen de la película: ${pelicula.name}" />
     <dt class='movieName'>${pelicula.name}</dt>
@@ -11,8 +9,9 @@ export const renderItems = (data) => {
     <dt class='movieDes'>${pelicula.description}</dt>
     <dt><dd class='movieFacts itemprop='facts'>${pelicula.facts.rating}</dd></dt>
     </dl>
-    `
- ul.appendChild (li)
+    </li>
+    `  
   })
-  return html;
+const ul= '<ul>' + html + '</ul>';
+  return ul;
 };

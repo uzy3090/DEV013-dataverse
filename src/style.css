@@ -1,6 +1,6 @@
 
 * {
-  margin: 1rem;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -24,17 +24,21 @@ label {
 li {
   list-style-type: none;
   background-color: #F4D03F;
-  display: flex;
-  flex-direction: row | row-reverse;
-  justify-content: space-between;
-  padding: 40px;
-  width: 50%;
+  /*justify-content: space-between;*/
+  padding: 20px;
   margin: 15px auto;
   box-shadow: 10px 10px 10px royalblue rgba(0, 0, 0, 0.5);
-  width: 600px;
+  width: 200px;
 }
 
 img {
   width: 100%;
   height: auto;
 }
+
+ul {
+ display: flex; 
+ gap: 10px;
+ flex-wrap: wrap;
+}
+
