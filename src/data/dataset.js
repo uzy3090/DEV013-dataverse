@@ -64,7 +64,7 @@ export default [
     "name": "Los Increibles",
     "shortdescription": "Familia de superhéroes lucha contra villano.",
     "description": "Los Increibles, lanzada en 2004, sigue a la familia Parr, una familia de superhéroes que lucha contra el villano Syndrome. La película aborda temas de identidad, familia y aceptación de uno mismo.",
-    "imageUrl": "https://pics.filmaffinity.com/Los_Increaibles-939387273-large.jpg",
+    "imageUrl": "https://musicart.xboxlive.com/7/3aae1000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
     "facts": {
       "fechaDeLanzamiento": "27 de octubre de 2004",
       "generoDePelicula": "Acción, Aventura",
