@@ -12,16 +12,18 @@
     </header>
 
     <section>
-      <label for="filtro-rating">Ordernar por rating:</label>
-      <select name="filtro-rating" id="filtro-rating">
-        <option>1-10</option>
-        <option>10-1</option>
+      <label for="sort-rating">Ordernar por rating:</label>
+      <select name="rating" data-testid="select-sort">
+        <option value="asc">1-10</option>
+        <option value="desc">10-1</option>
       </select>
 
       <label for="filtro-genero">Filtrar:</label>
-      <select name="filtro-genero" id="filtro-genero">        
-        <option>Genero</option>
+      <select name="genero" data-testid="select-filter">        
+        <option value="genero">Genero</option>
       </select>
+
+      <button data-testid="button-clear">Reset</button>
     </section>
 
     <main>
