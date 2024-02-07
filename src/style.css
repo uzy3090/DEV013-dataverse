@@ -7,13 +7,23 @@
 
 header {
   display: flex;
-  align-items: center;
+ /* align-items: center;*/
   justify-content: space-between;
   padding: 2rem;
   background-color: #412d99;
   background-image: url('./imagenes/fondo\ de\ pixar.jpg');
+  font-family:'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 7vw;
+  font-weight: 900;
+  width: max-content;
+  margin: auto;
 }
 
+:root{
+  color: #186cb8;
+  
+}
 label {
   list-style-type: none;
   display: flex;
@@ -31,6 +41,7 @@ li {
   box-shadow: 10px 10px 10px royalblue rgba(0, 0, 0, 0.5);
   width: 200px;
   text-align: center;
+  line-height: 20 px;
  
 }
 
@@ -55,5 +66,14 @@ ul {
 .emoticonCalendar {
   icon: "fa-duotone fa-calendar-days"
   
+}
+
+section {
+  display: flex; 
+  gap: 10px;
+  flex-wrap: wrap;
+  text-align: center;
+  line-height: normal;
+
 }
 
