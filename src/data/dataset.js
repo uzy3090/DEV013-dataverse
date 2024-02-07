@@ -223,7 +223,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "20 de octubre de 2017",
-      "generoDePelicula": "Aventura, Familia",
+      "generoDePelicula": "Aventura, Familiar",
       "rating": "8.4/10 en IMDb"
     }
   },
@@ -295,7 +295,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzRhMTNjZTItMjU3Mi00Y2RmLWE1ZTktODAxODU3OWYyZjUzXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "11 de marzo de 2022",
-      "generoDePelicula": "Comedia, Drama, Familia",
+      "generoDePelicula": "Comedia, Drama, Familiar",
       "rating": "7.0/10 en IMDb"
     }
   },
@@ -319,7 +319,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIP.tPxpzJFOvL-0I3H5E6yM4QHaK-?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "18 de agosto de 2023",
-      "generoDePelicula": "Comedia, Animación, Infantil",
+      "generoDePelicula": "Comedia, Familiar",
       "rating": "7.2/10 en IMDb"
     }
   }  
