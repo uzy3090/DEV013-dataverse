@@ -7,7 +7,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "22 de noviembre de 1995",
-      "generoDePelicula": "Comedia, Aventura",
+      "generoDePelicula": "Aventura",
       "rating": "8.3/10 en IMDb"
     }
   },
@@ -19,7 +19,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "20 de noviembre de 1998",
-      "generoDePelicula": "Aventura, Familiar",
+      "generoDePelicula": "Familiar",
       "rating": "7.2/10 en IMDb"
     }
   },
@@ -31,7 +31,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "24 de noviembre de 1999",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Aventura",
       "rating": "7.9/10 en IMDb"
     }
   },
@@ -43,7 +43,7 @@ export default [
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_monstersinc_19751_55afa07a.jpeg",
     "facts": {
       "fechaDeLanzamiento": "2 de noviembre de 2001",
-      "generoDePelicula": "Comedia, Familiar",
+      "generoDePelicula": "Comedia",
       "rating": "8.1/10 en IMDb"
     }
   },
@@ -55,7 +55,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/I/81J7E7J2uhL._AC_UF894,1000_QL80_.jpg",
     "facts": {
       "fechaDeLanzamiento": "30 de mayo de 2003",
-      "generoDePelicula": "Aventura, Familiar",
+      "generoDePelicula": "Familiar",
       "rating": "8.1/10 en IMDb"
     }
   },
@@ -67,7 +67,7 @@ export default [
     "imageUrl": "https://musicart.xboxlive.com/7/3aae1000-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
     "facts": {
       "fechaDeLanzamiento": "27 de octubre de 2004",
-      "generoDePelicula": "Acción, Aventura",
+      "generoDePelicula": "Acción",
       "rating": "8.0/10 en IMDb"
     }
   },
@@ -79,7 +79,7 @@ export default [
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_cars_19643_4405006d.jpeg",
     "facts": {
       "fechaDeLanzamiento": "9 de junio de 2006",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Comedia",
       "rating": "7.1/10 en IMDb"
     }
   },
@@ -91,7 +91,7 @@ export default [
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg",
     "facts": {
       "fechaDeLanzamiento": "22 de junio de 2007",
-      "generoDePelicula": "Comedia, Familiar",
+      "generoDePelicula": "Comedia",
       "rating": "8.0/10 en IMDb"
     }
   },
@@ -103,7 +103,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "27 de junio de 2008",
-      "generoDePelicula": "Aventura, Ciencia Ficción",
+      "generoDePelicula": "Ciencia Ficción",
       "rating": "8.4/10 en IMDb"
     }
   },
@@ -115,7 +115,7 @@ export default [
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_up_19753_e6f911e3.jpeg",
     "facts": {
       "fechaDeLanzamiento": "29 de mayo de 2009",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Aventura",
       "rating": "8.2/10 en IMDb"
     }
   },
@@ -127,7 +127,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIP.7jYlGRZeFJhDtoWGKd7zVAHaK9?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "12 de junio de 2010",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Aventura",
       "rating": "8.2/10 en IMDb"
     }
   },
@@ -139,7 +139,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "18 de junio de 2011",
-      "generoDePelicula": "Acción, Aventura",
+      "generoDePelicula": "Acción",
       "rating": "6.2/10 en IMDb"
     }
   },
@@ -151,7 +151,7 @@ export default [
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/p_brave_20488_9e833e2b.jpeg",
     "facts": {
       "fechaDeLanzamiento": "22 de junio de 2012",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Comedia",
       "rating": "7.1/10 en IMDb"
     }
   },
@@ -163,7 +163,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "21 de junio de 2013",
-      "generoDePelicula": "Comedia, Familiar",
+      "generoDePelicula": "Familiar",
       "rating": "7.3/10 en IMDb"
     }
   },
@@ -175,7 +175,7 @@ export default [
     "imageUrl": "https://mx.web.img3.acsta.net/pictures/17/08/07/21/43/466493.jpg",
     "facts": {
       "fechaDeLanzamiento": "19 de junio de 2015",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Comedia",
       "rating": "8.1/10 en IMDb"
     }
   },
@@ -187,7 +187,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/R.8e8c010fa99929fdc57e213e62bef3d8?rik=p0bwf3IKflKBmA&pid=ImgRaw&r=0",
     "facts": {
       "fechaDeLanzamiento": "25 de noviembre de 2015",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Aventura",
       "rating": "6.7/10 en IMDb"
     }
   },
@@ -199,7 +199,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWVmYTcwZDYtYzNmNC00M2U2LWFjZWYtOWRlY2NiNjc5ZjdiXkEyXkFqcGdeQXVyNjY5Mjg5MjA@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2016",
-      "generoDePelicula": "Aventura, Comedia",
+      "generoDePelicula": "Comedia",
       "rating": "7.3/10 en IMDb"
     }
   },
@@ -211,7 +211,7 @@ export default [
     "imageUrl": "https://es.web.img2.acsta.net/pictures/17/06/09/13/42/187933.jpg",
     "facts": {
       "fechaDeLanzamiento": "16 de junio de 2017",
-      "generoDePelicula": "Acción, Aventura",
+      "generoDePelicula": "Acción",
       "rating": "6.7/10 en IMDb"
     }
   },
@@ -223,7 +223,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "20 de octubre de 2017",
-      "generoDePelicula": "Aventura, Familiar",
+      "generoDePelicula": "Familiar",
       "rating": "8.4/10 en IMDb"
     }
   },
@@ -235,7 +235,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg",
     "facts": {
       "fechaDeLanzamiento": "15 de junio de 2018",
-      "generoDePelicula": "Acción, Aventura",
+      "generoDePelicula": "Acción",
       "rating": "7.6/10 en IMDb"
     }
   },  
@@ -247,7 +247,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "20 de junio de 2019",
-      "generoDePelicula": "Aventura, Comedia, Fantasía",
+      "generoDePelicula": "Fantasía",
       "rating": "7.7/10 en IMDb"
     }
   },
@@ -259,7 +259,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIP.EnvhF6BXMJu487ApSrTdpQHaKl?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "29 de febrero de 2020",
-      "generoDePelicula": "Aventura, Comedia, Drama",
+      "generoDePelicula": "Drama",
       "rating": "7.4/10 en IMDb"
     }
   },
@@ -271,7 +271,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "25 de diciembre de 2020",
-      "generoDePelicula": "Aventura, Comedia, Drama",
+      "generoDePelicula": "Drama",
       "rating": "8.1/10 en IMDb"
     }
   },
@@ -283,7 +283,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "18 de junio de 2021",
-      "generoDePelicula": "Aventura, Comedia, Drama",
+      "generoDePelicula": "Drama",
       "rating": "7.5/10 en IMDb"
     }
   },
@@ -295,7 +295,7 @@ export default [
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzRhMTNjZTItMjU3Mi00Y2RmLWE1ZTktODAxODU3OWYyZjUzXkEyXkFqcGdeQXVyMTA2ODkwNzM5._V1_.jpg",
     "facts": {
       "fechaDeLanzamiento": "11 de marzo de 2022",
-      "generoDePelicula": "Comedia, Drama, Familiar",
+      "generoDePelicula": "Familiar",
       "rating": "7.0/10 en IMDb"
     }
   },
@@ -307,7 +307,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/R.9399d06137906c74c3d40c6135f4c453?rik=XDmsgWZsbYQF%2fg&pid=ImgRaw&r=0",
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2022",
-      "generoDePelicula": "Acción, Aventura, Ciencia ficción",
+      "generoDePelicula": "Ciencia ficción",
       "rating": "6.1/10 en IMDb"
     }
   },
@@ -319,7 +319,7 @@ export default [
     "imageUrl": "https://th.bing.com/th/id/OIP.tPxpzJFOvL-0I3H5E6yM4QHaK-?rs=1&pid=ImgDetMain",
     "facts": {
       "fechaDeLanzamiento": "18 de agosto de 2023",
-      "generoDePelicula": "Comedia, Familiar",
+      "generoDePelicula": "Comedia",
       "rating": "7.2/10 en IMDb"
     }
   }  
