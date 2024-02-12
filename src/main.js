@@ -16,8 +16,8 @@ sortRating.addEventListener("click", function() {
     console.log("rating");
 })
 
-filtrarGenero.addEventListener("click", function() {
-    console.log("genero");
+filtrarGenero.addEventListener("change", function() {
+    console.log(filtrarGenero.value);
 })
 
 resetButton.addEventListener("click", function() {
