@@ -23,4 +23,3 @@ filtrarGenero.addEventListener("change", function() {
 resetButton.addEventListener("click", function() {
     console.log("button");
 })
-
