@@ -1,5 +1,12 @@
-// Estas funciones son ejemplos, aquí puedes desarrollar tus propias funciones.
+ export const filtrarPelicula = (data, criterio, valor) => { 
+  let filtrar = data.filter (pelicula => pelicula.facts[criterio] == valor)
+  return filtrar
+}
 
+
+
+// Estas funciones son ejemplos, aquí puedes desarrollar tus propias funciones.
+/*
  export const filterData = (data, filterBy, value) =>
  {
 
@@ -14,3 +21,4 @@ export const sortData = (data, sortBy, sortOrder) => {
 export const computeStats = (data) => {
 
 };
+*/
