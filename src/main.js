@@ -1,4 +1,5 @@
 import { filtrarPelicula } from './dataFunctions.js';
+import { ordenarPelicula } from './dataFunctions.js';
 import { renderItems } from './view.js';
 
 import data from './data/dataset.js';
@@ -12,9 +13,9 @@ const sortRating = document.querySelector("[data-testid=select-sort]")
 const filtrarGenero = document.querySelector("[data-testid=select-filter]")
 const resetButton = document.querySelector("[data-testid=button-clear]")
 
-sortRating.addEventListener("click", function() {
-    console.log("rating");
-    
+sortRating.addEventListener("change", function(event) {
+    console.log(event.target.value); 
+    ordenarPelicula(data, "name", event.target.value);
 })
 
 filtrarGenero.addEventListener("change", function(event) {

@@ -3,6 +3,16 @@
   return filtrar
 }
 
+export const ordenarPelicula = (data, ordenarPor, valor) => {
+  const ordenar = data.sort((a,b) => {
+    if (valor === "asc") {
+      console.log(a[ordenarPor] - b[ordenarPor])
+      return a[ordenarPor] - b[ordenarPor];
+    }
+  })
+  console.log(ordenar);
+}
+
 
 
 // Estas funciones son ejemplos, aquí puedes desarrollar tus propias funciones.
