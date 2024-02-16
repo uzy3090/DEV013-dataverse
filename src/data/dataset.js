@@ -8,7 +8,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "22 de noviembre de 1995",
       "generoDePelicula": "Aventura",
-      "rating": "8.3/10 en IMDb"
+      "rating":8.3
     }
   },
   {
@@ -20,7 +20,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "20 de noviembre de 1998",
       "generoDePelicula": "Familiar",
-      "rating": "7.2/10 en IMDb"
+      "rating": 7.2
     }
   },
   {
@@ -32,7 +32,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "24 de noviembre de 1999",
       "generoDePelicula": "Aventura",
-      "rating": "7.9/10 en IMDb"
+      "rating": 7.9
     }
   },
   {
@@ -44,7 +44,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "2 de noviembre de 2001",
       "generoDePelicula": "Comedia",
-      "rating": "8.1/10 en IMDb"
+      "rating": 8.1
     }
   },
   {
@@ -56,7 +56,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "30 de mayo de 2003",
       "generoDePelicula": "Familiar",
-      "rating": "8.1/10 en IMDb"
+      "rating": 8.1
     }
   },
   {
@@ -68,7 +68,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "27 de octubre de 2004",
       "generoDePelicula": "Acción",
-      "rating": "8.0/10 en IMDb"
+      "rating": 8.0
     }
   },
   {
@@ -80,7 +80,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "9 de junio de 2006",
       "generoDePelicula": "Comedia",
-      "rating": "7.1/10 en IMDb"
+      "rating": 7.1
     }
   },
   {
@@ -92,7 +92,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "22 de junio de 2007",
       "generoDePelicula": "Comedia",
-      "rating": "8.0/10 en IMDb"
+      "rating": 8.0
     }
   },
   {
@@ -104,7 +104,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "27 de junio de 2008",
       "generoDePelicula": "Ciencia Ficción",
-      "rating": "8.4/10 en IMDb"
+      "rating": 8.4
     }
   },
   {
@@ -116,7 +116,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "29 de mayo de 2009",
       "generoDePelicula": "Aventura",
-      "rating": "8.2/10 en IMDb"
+      "rating": 8.2
     }
   },
   {
@@ -128,7 +128,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "12 de junio de 2010",
       "generoDePelicula": "Aventura",
-      "rating": "8.2/10 en IMDb"
+      "rating": 8.2
     }
   },
   {
@@ -140,7 +140,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "18 de junio de 2011",
       "generoDePelicula": "Acción",
-      "rating": "6.2/10 en IMDb"
+      "rating": 6.2
     }
   },
   {
@@ -152,7 +152,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "22 de junio de 2012",
       "generoDePelicula": "Comedia",
-      "rating": "7.1/10 en IMDb"
+      "rating": 7.1
     }
   },
   {
@@ -164,7 +164,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "21 de junio de 2013",
       "generoDePelicula": "Familiar",
-      "rating": "7.3/10 en IMDb"
+      "rating": 7.3
     }
   },
   {
@@ -176,7 +176,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "19 de junio de 2015",
       "generoDePelicula": "Comedia",
-      "rating": "8.1/10 en IMDb"
+      "rating": 8.1
     }
   },
   {
@@ -188,7 +188,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "25 de noviembre de 2015",
       "generoDePelicula": "Aventura",
-      "rating": "6.7/10 en IMDb"
+      "rating": 6.7
     }
   },
   {
@@ -200,7 +200,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2016",
       "generoDePelicula": "Comedia",
-      "rating": "7.3/10 en IMDb"
+      "rating": 7.3
     }
   },
   {
@@ -212,7 +212,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "16 de junio de 2017",
       "generoDePelicula": "Acción",
-      "rating": "6.7/10 en IMDb"
+      "rating": 6.7
     }
   },
   {
@@ -224,7 +224,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "20 de octubre de 2017",
       "generoDePelicula": "Familiar",
-      "rating": "8.4/10 en IMDb"
+      "rating": 8.4
     }
   },
   {
@@ -236,7 +236,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "15 de junio de 2018",
       "generoDePelicula": "Acción",
-      "rating": "7.6/10 en IMDb"
+      "rating": 7.6
     }
   },  
   {
@@ -248,7 +248,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "20 de junio de 2019",
       "generoDePelicula": "Fantasía",
-      "rating": "7.7/10 en IMDb"
+      "rating": 7.7
     }
   },
   {
@@ -260,7 +260,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "29 de febrero de 2020",
       "generoDePelicula": "Drama",
-      "rating": "7.4/10 en IMDb"
+      "rating": 7.4
     }
   },
   {
@@ -272,7 +272,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "25 de diciembre de 2020",
       "generoDePelicula": "Drama",
-      "rating": "8.1/10 en IMDb"
+      "rating": 8.1
     }
   },
   {
@@ -284,7 +284,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "18 de junio de 2021",
       "generoDePelicula": "Drama",
-      "rating": "7.5/10 en IMDb"
+      "rating": 7.5
     }
   },
   {
@@ -296,7 +296,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "11 de marzo de 2022",
       "generoDePelicula": "Familiar",
-      "rating": "7.0/10 en IMDb"
+      "rating": 7.0
     }
   },
   {
@@ -308,7 +308,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "17 de junio de 2022",
       "generoDePelicula": "Ciencia ficción",
-      "rating": "6.1/10 en IMDb"
+      "rating": 6.1
     }
   },
   {
@@ -320,7 +320,7 @@ export default [
     "facts": {
       "fechaDeLanzamiento": "18 de agosto de 2023",
       "generoDePelicula": "Comedia",
-      "rating": "7.2/10 en IMDb"
+      "rating": 7.2
     }
   }  
 ];

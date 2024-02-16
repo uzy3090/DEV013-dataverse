@@ -15,13 +15,16 @@ const resetButton = document.querySelector("[data-testid=button-clear]")
 
 sortRating.addEventListener("change", function(event) {
     console.log(event.target.value); 
-    ordenarPelicula(data, "name", event.target.value);
+    ordenarPelicula(data, "rating", event.target.value);
+    root.innerHTML = renderItems(ordenarPelicula(data,"rating",event.target.value))
 })
 
 filtrarGenero.addEventListener("change", function(event) {
     console.log(event.target.value);
     let filtrar = filtrarPelicula(data,"generoDePelicula",event.target.value)
     root.innerHTML = renderItems(filtrar)
+
+//filtrarGenero.addEventListener("asc").innerHTML= "" + "": const ordenarPelicula.sort ()
 })
 
 

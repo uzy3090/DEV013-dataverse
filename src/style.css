@@ -12,6 +12,7 @@ header {
   padding: 2rem;
   background-color: #412d99;
   background-image: url('./imagenes/fondo\ de\ pixar.jpg');
+  opacity: 50;
   font-family:'Roboto Mono', monospace;
   text-align: center;
   font-size: 7vw;

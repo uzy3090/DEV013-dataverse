@@ -4,10 +4,10 @@
 }
 
 export const ordenarPelicula = (data, ordenarPor, valor) => {
-  const ordenar = data.sort((a,b) => {
-    if (valor === "asc") {
+  const ordenar = data.toSorted((a,b) => {
+    if (valor === "1-10") {
       console.log(a[ordenarPor] - b[ordenarPor])
-      return a[ordenarPor] - b[ordenarPor];
+      return a.facts[ordenarPor] - b.facts[ordenarPor];
     }
   })
   console.log(ordenar);
