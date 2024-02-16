@@ -12,6 +12,7 @@ root.innerHTML = renderItems(data)
 const sortRating = document.querySelector("[data-testid=select-sort]")
 const filtrarGenero = document.querySelector("[data-testid=select-filter]")
 const resetButton = document.querySelector("[data-testid=button-clear]")
+const statsButton = document.querySelector("[id=estadística]")
 
 sortRating.addEventListener("change", function(event) {
     root.innerHTML = renderItems(ordenarPelicula(data,"rating",event.target.value));
@@ -27,6 +28,10 @@ filtrarGenero.addEventListener("change", function(event) {
 
 resetButton.addEventListener("click", function() {
     console.log("button");
+})
+
+statsButton.addEventListener("click", function(){
+    console.log("statsButton");
 })
 
 
