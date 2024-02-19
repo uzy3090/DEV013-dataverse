@@ -1,5 +1,6 @@
 import { filtrarPelicula } from './dataFunctions.js';
 import { ordenarPelicula } from './dataFunctions.js';
+import { calcularRating } from './dataFunctions.js';
 import { renderItems } from './view.js';
 
 import data from './data/dataset.js';
@@ -34,7 +35,7 @@ resetButton.addEventListener("click", function() {
 })
 
 statsButton.addEventListener("click", function(){
-    console.log("statsButton");
+    alert("El promedio de rating de las peliculas de Pixar es: "+ calcularRating(data));
 })
 
 
