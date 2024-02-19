@@ -24,18 +24,6 @@ export default [
     }
   },
   {
-    "id": "toy-story-2",
-    "name": "Toy Story 2",
-    "shortdescription": "Woody secuestrado, Buzz lidera rescate.",
-    "description": "Toy Story 2, lanzada en 1999, continúa la historia de Woody y Buzz. Woody es secuestrado y llevado a una colección de juguetes valiosos. Buzz lidera una misión de rescate para salvar a su amigo. La película destaca la lealtad y el valor.",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
-    "facts": {
-      "fechaDeLanzamiento": "24 de noviembre de 1999",
-      "generoDePelicula": "Aventura",
-      "rating": 7.9
-    }
-  },
-  {
     "id": "monsters-inc",
     "name": "Monsters, Inc.",
     "shortdescription": "Monstruos asustan niños para obtener energía.",
@@ -120,18 +108,6 @@ export default [
     }
   },
   {
-    "id": "toy-story-3",
-    "name": "Toy Story 3",
-    "shortdescription": "Juguetes enfrentan futuro",
-    "description": "Toy Story 3, lanzada en 2010, sigue a los juguetes de Andy enfrentando su futuro cuando él se va a la universidad. La película explora la amistad, la lealtad y la transición a nuevas etapas de la vida.",
-    "imageUrl": "https://th.bing.com/th/id/OIP.7jYlGRZeFJhDtoWGKd7zVAHaK9?rs=1&pid=ImgDetMain",
-    "facts": {
-      "fechaDeLanzamiento": "12 de junio de 2010",
-      "generoDePelicula": "Aventura",
-      "rating": 8.2
-    }
-  },
-  {
     "id": "cars-2",
     "name": "Cars 2",
     "shortdescription": "Rayo McQueen en carrera y conspiración",
@@ -201,18 +177,6 @@ export default [
       "fechaDeLanzamiento": "17 de junio de 2016",
       "generoDePelicula": "Comedia",
       "rating": 7.3
-    }
-  },
-  {
-    "id": "cars-3",
-    "name": "Cars 3",
-    "shortdescription": "Rayo McQueen enfrenta nueva generación corredores",
-    "description": "Cars 3, lanzada en 2017, sigue a Rayo McQueen mientras se enfrenta a una nueva generación de corredores de alta tecnología. La película aborda temas de perseverancia y aceptación del cambio.",
-    "imageUrl": "https://es.web.img2.acsta.net/pictures/17/06/09/13/42/187933.jpg",
-    "facts": {
-      "fechaDeLanzamiento": "16 de junio de 2017",
-      "generoDePelicula": "Acción",
-      "rating": 6.7
     }
   },
   {
