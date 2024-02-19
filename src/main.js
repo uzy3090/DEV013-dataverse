@@ -34,7 +34,7 @@ resetButton.addEventListener("click", function() {
 })
 
 statsButton.addEventListener("click", function(){
-    console.log(calcularRating(data));
+    alert("El promedio de rating de las peliculas de Pixar es: "+ calcularRating(data));
 })
 
 

@@ -16,18 +16,19 @@ export const ordenarPelicula = (data, ordenarPor, valor) => {
 }
 
 export const calcularRating = (data) => {
-  // declarar de donde se buscara la info
+  // Filter out movies with valid ratings
   const ratings = data.filter(pelicula => pelicula.facts.rating);
-  // implementar reduce method, sumando todos los rating
-  const result = ratings.reduce(getAverage);
-  // dividir el total entre 10
-  function getAverage(accumulator, element) {
-    const total = accumulator + element;
-    const averageTotal = total / element.length
-    return averageTotal / 10
-  }
-  // retornar el resultado
-  return result;
+
+  // Implement reduce method to sum all the ratings
+  const totalRating = ratings.reduce((accumulator, pelicula) => {
+    return accumulator + pelicula.facts.rating;
+  }, 0);
+
+  // Divide the total by the number of ratings to get the average
+  const averageRating = totalRating / ratings.length;
+
+  // Return the average rating
+  return averageRating.toFixed(0);
 }
 
 // Estas funciones son ejemplos, aquí puedes desarrollar tus propias funciones.
