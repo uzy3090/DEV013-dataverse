@@ -10,10 +10,12 @@ export const ordenarPelicula = (data, ordenarPor, valor) => {
     }
     else if (valor === "10-1") {
       return b.facts[ordenarPor] - a.facts[ordenarPor];
+      
     }
   })
   return ordenar;
 }
+
 
 
 
