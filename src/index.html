@@ -11,31 +11,33 @@
       <h1>Pixar Planet</h1>
     </header>
 
-    <section>
-      <label for="sort-rating">Ordenar por rating:</label>
-      <select name="rating" data-testid="select-sort">
-        <option value="">Selección</option>
-        <option value="1-10">1-10</option>
-        <option value="10-1">10-1</option>
-      </select>
+    <div class="opciones">
+      <section>
+        <label for="sort-rating">Ordenar por rating:</label>
+          <select name="rating" data-testid="select-sort">
+          <option value="">Selección</option>
+          <option value="1-10">1-10</option>
+          <option value="10-1">10-1</option>
+        </select>
 
-      <label for="filtro-genero">Género:</label>
-      <select name="genero" data-testid="select-filter">        
-        <option value="">Selección</option>
-        <option value="Aventura">Aventura</option>
-        <option value="Comedia">Comedia</option>
-        <option value="Familiar">Familiar</option>
-        <option value="Ciencia ficcion">Ciencia ficción</option>
-        <option value="Fantasia">Fantasía</option>
-        <option value="Drama">Drama</option>
-      </select>
+        <label for="filtro-genero">Género:</label>
+          <select name="genero" data-testid="select-filter">        
+          <option value="">Selección</option>
+          <option value="Aventura">Aventura</option>
+          <option value="Comedia">Comedia</option>
+          <option value="Familiar">Familiar</option>
+          <option value="Ciencia ficción">Ciencia ficción</option>
+          <option value="Fantasía">Fantasía</option>
+          <option value="Drama">Drama</option>
+          </select>
 
       <button data-testid="button-clear">Reset</button>
       <button id="estadística">Estadística</button>
     </section>
+  </div>
 
     <main>
-      <h2>Peliculas</h2>
+      <h2></h2>
       <div id="root"></div>
     </main>
     
