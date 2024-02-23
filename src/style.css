@@ -3,20 +3,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
+
 }
 
 header {
   display: flex;
   justify-content: space-between;
   padding: 2rem;
-<<<<<<< HEAD
-  background-color: rgba(255, 255, 255, 0.5);
-  background-image: url('./imagenes/fondo\ de\ pixar.jpg');
-=======
->>>>>>> b8e56cf309824425c6b0d6516c1bed1fd6abaab1
   font-family:'Roboto Mono', monospace;
   text-align: center;
-  background-image: url('./imagenes/fondo\ de\ pixar.jpg');
+  /*background-image: url('./imagenes/fondo\ de\ pixar.jpg');*/
   font-size: 7vw;
   width: max-content;
   margin: auto;
@@ -24,10 +21,7 @@ header {
 }
 
 h1 {
-  opacity: 1;
-}
-h1 {
-  color: black
+  color: whitesmoke;
   opacity: 1;
   font-family:'Roboto Mono', monospace;
   text-align: center;
@@ -35,10 +29,11 @@ h1 {
 }
 :root{
   color: #186cb8;
-  color: black
   opacity: 1;
   font-family:'Roboto Mono', monospace;
   text-align: center;
+  background-color: #02274a;
+
   
 }
 label {
@@ -49,16 +44,16 @@ label {
   color: black;
 }
 
-li {
+.tarjeta {
   list-style-type: none;
-  background-color: #F4D03F;
-  /*justify-content: space-between;*/
+  background-color: whitesmoke;
   padding: 20px;
   margin: 15px auto;
   box-shadow: 10px 10px 10px royalblue rgba(0, 0, 0, 0.5);
   width: 200px;
   text-align: center;
   line-height: 20 px;
+  border-radius: 10px;
 }
 
 img {
@@ -74,21 +69,9 @@ ul {
 
 .movieName{
   text-align: center;
-<<<<<<< HEAD
-    font-size: 16px;
-    font-family: 'Roboto Mono', monospace;
-   
-    
-}
-
-.fa-solid fa-star
-feColorMatrix
-  
-=======
   font-size: 16px;
   font-family: 'Roboto Mono', monospace;
 }
->>>>>>> b8e56cf309824425c6b0d6516c1bed1fd6abaab1
 
 section {
   display: flex; 
@@ -102,13 +85,10 @@ section {
   box-sizing: border-box;
   margin: 20px;
 }
- @media (max-width: 1220px){
-  .background {
-    background-color: #412d99;
-  }
- }
 
 .opciones {
   display: flex; 
   justify-content: center;
 }
+
+

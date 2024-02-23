@@ -33,14 +33,6 @@ resetButton.addEventListener("click", function() {
 })
 
 statsButton.addEventListener("click", function(){
-<<<<<<< HEAD
-    let calcular = calcularRating(valoractual);
-    alert("El promedio de rating de las peliculas de Pixar es: "+ calcular);
-})
-
-
-=======
   const calcular = calcularRating(valoractual);
   alert("El promedio de rating es: "+ calcular);
 })
->>>>>>> b8e56cf309824425c6b0d6516c1bed1fd6abaab1
