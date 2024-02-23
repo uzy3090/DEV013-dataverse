@@ -1,5 +1,5 @@
- export const filtrarPelicula = (data, criterio, valor) => { 
-  let filtrar = data.filter(pelicula => pelicula.facts[criterio] == valor);
+export const filtrarPelicula = (data, criterio, valor) => { 
+  const filtrar = data.filter(pelicula => pelicula.facts[criterio] === valor);
   return filtrar;
 }
 
@@ -29,7 +29,7 @@ export const calcularRating = (data) => {
   const averageRating = totalRating / ratings.length;
 
   // Return the average rating
-  return averageRating.toFixed(0);
+  return averageRating.toFixed(2);
 }
 
 
