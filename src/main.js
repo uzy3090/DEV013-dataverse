@@ -26,8 +26,6 @@ filtrarGenero.addEventListener("change", function(event) {
 
 })
 
-
- 
 resetButton.addEventListener("click", function() {
     filtrarGenero.selectedIndex = 0;
     sortRating.selectedIndex = 0;
@@ -35,7 +33,8 @@ resetButton.addEventListener("click", function() {
 })
 
 statsButton.addEventListener("click", function(){
-    alert("El promedio de rating de las peliculas de Pixar es: "+ calcularRating(data));
+    let calcular = calcularRating(valoractual);
+    alert("El promedio de rating de las peliculas de Pixar es: "+ calcular);
 })
 
 

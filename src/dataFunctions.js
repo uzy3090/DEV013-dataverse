@@ -29,7 +29,7 @@ export const calcularRating = (data) => {
   const averageRating = totalRating / ratings.length;
 
   // Return the average rating
-  return averageRating.toFixed(0);
+  return averageRating.toFixed(2);
 }
 
 
