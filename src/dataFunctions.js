@@ -1,5 +1,5 @@
- export const filtrarPelicula = (data, criterio, valor) => { 
-  let filtrar = data.filter(pelicula => pelicula.facts[criterio] == valor);
+export const filtrarPelicula = (data, criterio, valor) => { 
+  const filtrar = data.filter(pelicula => pelicula.facts[criterio] === valor);
   return filtrar;
 }
 
