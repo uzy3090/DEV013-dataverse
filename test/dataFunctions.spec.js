@@ -1,18 +1,18 @@
-import { example, anotherExample } from '../src/dataFunctions.js';
+import { filtrarPelicula } from '../src/dataFunctions.js';
 import { data as fakeData } from './data.js';
 
 console.log(fakeData);
 
-describe('example', () => {
+describe('filtrarPelicula', () => {
 
-  it('returns `example`', () => {
-    expect(example()).toBe('example');
+  it('returns comedy movies', () => {
+    expect(filtrarPelicula(fakeData,"generoDePelicula","Comedia")).toContain();
   });
 });
 
-describe('anotherExample', () => {
+/* describe('anotherExample', () => {
 
   it('returns `anotherExample`', () => {
     expect(anotherExample()).toBe('OMG');
   });
-});
+}); */

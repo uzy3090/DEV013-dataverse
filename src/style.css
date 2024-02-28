@@ -1,122 +1,99 @@
-*{ 
-  margin: 0; 
-  padding: 0; 
+* {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+  
+
 }
 
-header { 
-  display: flex; 
-  justify-content: space-between; 
-  padding: 2rem; 
-  font-family:'Roboto Mono', monospace; 
-  text-align: center; 
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  font-family:'Roboto Mono', monospace;
+  text-align: center;
   background-image: url('./imagenes/fondo\ de\ pixar.jpg');
-  font-size: 7vw; 
-  width: max-content; 
-  margin: auto; 
-  opacity: 0.5; 
+  font-size: 7vw;
+  width: max-content;
+  margin: auto;
+  opacity: 0.5;
 }
 
-h1 { 
-  color: whitesmoke; 
-  opacity: 1; 
-  font-family:'Roboto Mono', monospace; 
+h1 {
+  color: whitesmoke;
+  opacity: 1;
+  font-family:'Roboto Mono', monospace;
   text-align: center;
 
-} 
-
-:root { 
-  color: #186cb8; 
-  opacity: 1; 
-  font-family:'Roboto Mono', monospace; 
-  text-align: center; 
+}
+:root{
+  color: #186cb8;
+  opacity: 1;
+  font-family:'Roboto Mono', monospace;
+  text-align: center;
   background-color: #02274a;
 
-} 
-
-label { 
+  
+}
+label {
   list-style-type: none;
-  display: flex; 
-  gap: 1rem; 
-  text-decoration: none; 
+  display: flex;
+  gap: 1rem;
+  text-decoration: none;
+  color: black;
+}
 
-} 
-
-.front { 
-  list-style-type: circle;
+.tarjeta {
+  list-style-type: none;
   background-color: whitesmoke;
-  padding: 20px; 
-  margin: 15px auto; 
-  width: 300px;
-  height: 150px;
-  border-radius: 20px;
-  display: flex; 
-  backface-visibility: hidden; 
-  transition: 2s; 
-  transform: perspective(500px) rotateY(0deg);
+  padding: 20px;
+  margin: 15px auto;
+  box-shadow: 10px 10px 10px royalblue rgba(0, 0, 0, 0.5);
+  width: 200px;
   text-align: center;
-  justify-content: center;
-  align-content:end;
-
+  line-height: 20 px;
+  border-radius: 10px;
 }
 
-.back { 
-  transform: perspective(500px) rotateY(0deg); 
-  background-color: whitesmoke; 
-  list-style-type: none; 
-  padding: 20px; 
-  margin: 15px auto; 
-  width: 200px; 
-  height: 200px; 
-  display: flex; 
-  text-align: center; 
-  line-height: 20 px; 
-  border-radius: 20px; 
-  backface-visibility: hidden; 
-  transition: 2s; 
+img {
+  width: 100%;
+  height: auto;
 }
 
-.front:hover { 
-  transform: perspective(500px) rotateY(180deg); 
+ul {
+ display: flex; 
+ gap: 20px;
+ flex-wrap: wrap;
 }
-
-.back:hover { 
-  transform: perspective(500px) rotateY(360deg); 
-
-}
-
-img { 
-  width: 100%; 
-  height: auto; 
-}
-
-ul { 
-  display: flex; 
-  gap: 20px; 
-  flex-wrap: wrap;
- }
 
 .movieName{
-   text-align: center; 
-   font-size: 16px; 
-   font-family: 'Roboto Mono', monospace; 
-  }
-
-section { 
-  display: flex; 
-  gap: 10px; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  padding: 10px; 
-  background-color: gainsboro; 
-  border-radius: 10px; width: fit-content; 
-  box-sizing: border-box; 
-  margin: 20px; 
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Roboto Mono', monospace;
 }
 
-.opciones { 
+section {
   display: flex; 
-  justify-content: center; 
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 10px;
+  background-color: gainsboro;
+  border-radius: 10px;
+  width: fit-content;
+  box-sizing: border-box;
+  margin: 20px;
 }
 
+.opciones {
+  display: flex; 
+  justify-content: center;
+}
 
+footer {
+  text-align: center;
+}
+
+select {
+  text-align: center;
+}
