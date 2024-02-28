@@ -1,4 +1,4 @@
-import { example, anotherExample } from '../src/dataFunctions.js';
+import { example, anotherExample, calcularRating } from '../src/dataFunctions.js';
 import { data as fakeData } from './data.js';
 
 console.log(fakeData);
@@ -16,3 +16,6 @@ describe('anotherExample', () => {
     expect(anotherExample()).toBe('OMG');
   });
 });
+
+
+
